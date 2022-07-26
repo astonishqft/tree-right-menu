@@ -1,2 +1,15 @@
-# tree-right-menu
-antd4 + Tree 实现右键菜单
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
