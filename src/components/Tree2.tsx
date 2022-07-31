@@ -103,9 +103,6 @@ export default function IndexPage() {
   );
 
   const renderMenu = () => {
-    console.log('pageX', pageX);
-    console.log('pageY', pageY);
-
     if (pageX && pageY) {
       return (
         <div
